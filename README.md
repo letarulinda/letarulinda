@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Linda
 - 👀 I’m Full Stack developer in the making
 - 🌱 I’m currently learning at Microverse
-- 💞️ I’m looking to collaborate on Python, React, and geospatial development projects
+- 💞️ I’m looking to collaborate on Ruby and React.
 - 📫 How to reach me letarulinda@gmail.com
